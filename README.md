@@ -69,13 +69,7 @@ Error heatmaps will be saved in the `figures/` directory as:
 ```
 figures/<pde>_<optimizer>_error.png
 ```
-
-## 📈 Visualizations
-
-<p float="left">
-  <img src="plots/burgers_heatmap.png" width="45%" />
-  <img src="plots/allen_cahn_loss.png" width="45%" />
-</p>
+Check the pdf titled "PDE_aware_Optimizer_for_Physics_informed_Neural_Networks" for results.
 
 ## 🧠 Authors
 
